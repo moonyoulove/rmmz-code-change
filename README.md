@@ -18,7 +18,6 @@
 * Window_NameBox
 ***
 ## mz移除的class
-* JsExtensions
 * CacheEntry
 * CacheMap
 * ImageCache
